@@ -1,5 +1,5 @@
 {
-    "packageId": "25e52975d64464",
+    "packageId": "281f40942616a8",
     "name": "Inspections",
     "description": "Health & Safety inspections",
     "buttons": [
@@ -8,8 +8,33 @@
             "name": "START",
             "description": "my first button description",
             "type": "action",
-            "questions": [],
+            "questions": [
+                {
+                    "question": "SECTION",
+                    "type": "options",
+                    "values": {
+                        "options": [
+                            "yes",
+                            "no",
+                            "EXTERIOR",
+                            "CAR PARK",
+                            "RECEPTION",
+                            "GROUND FLOOR",
+                            "FIRST FLOOR"
+                        ],
+                        "multiple": "single",
+                        "none": false
+                    },
+                    "validators": [],
+                    "compulsory": true,
+                    "questionId": "135b4bb60f5621",
+                    "number": 1
+                }
+            ],
             "navigation": {
+                "id": "135b4bb60f5621",
+                "type": "node",
+                "parent": null,
                 "children": []
             },
             "webhooks": []
