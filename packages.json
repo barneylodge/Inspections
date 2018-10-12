@@ -1,15 +1,17 @@
 {
-    "packageId": "22d6dc649a8e6c",
+    "packageId": "25e52975d64464",
     "name": "Inspections",
     "description": "Health & Safety inspections",
     "buttons": [
         {
             "buttonId": "16a6fae3fe5641",
-            "name": "my first button",
+            "name": "START",
             "description": "my first button description",
             "type": "action",
             "questions": [],
-            "navigation": {},
+            "navigation": {
+                "children": []
+            },
             "webhooks": []
         }
     ]
