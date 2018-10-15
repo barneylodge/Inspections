@@ -1,65 +1,10 @@
 {
-    "packageId": "12cebc518b10d4",
+    "packageId": "102980449da6b1",
     "name": "Inspections",
     "description": "Health & Safety inspections",
     "buttons": [
         {
-            "buttonId": "37aac268ead678",
-            "name": "CAR PARK",
-            "description": "button description",
-            "type": "action",
-            "questions": [],
-            "navigation": {
-                "children": []
-            },
-            "webhooks": []
-        },
-        {
-            "buttonId": "28c41047ba93da",
-            "name": "FIRST FLOOR",
-            "description": "button description",
-            "type": "action",
-            "questions": [],
-            "navigation": {
-                "children": []
-            },
-            "webhooks": []
-        },
-        {
-            "buttonId": "1657b154e7222e",
-            "name": "SECOND FLOOR",
-            "description": "button description",
-            "type": "action",
-            "questions": [],
-            "navigation": {
-                "children": []
-            },
-            "webhooks": []
-        },
-        {
-            "buttonId": "2c9b8daf7bfc42",
-            "name": "THIRD FLOOR",
-            "description": "button description",
-            "type": "action",
-            "questions": [],
-            "navigation": {
-                "children": []
-            },
-            "webhooks": []
-        },
-        {
-            "buttonId": "2f8dc488d85ca",
-            "name": "FOURTH FLOOR",
-            "description": "button description",
-            "type": "action",
-            "questions": [],
-            "navigation": {
-                "children": []
-            },
-            "webhooks": []
-        },
-        {
-            "buttonId": "5eec5afbb223c8",
+            "buttonId": "197e6356f6e2a4",
             "name": "RECEPTION",
             "description": "button description",
             "type": "action",
