@@ -1,5 +1,5 @@
 {
-    "packageId": "2c718ca233d14a",
+    "packageId": "26243553ec7a0e",
     "name": "Inspections",
     "description": "Health & Safety inspections",
     "buttons": [
@@ -18,7 +18,8 @@
                             "CAR PARK",
                             "RECEPTION",
                             "GROUND FLOOR",
-                            "FIRST FLOOR"
+                            "FIRST FLOOR",
+                            "Second floor"
                         ],
                         "multiple": "single",
                         "none": false
